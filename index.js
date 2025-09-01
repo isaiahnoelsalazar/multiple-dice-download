@@ -1,4 +1,4 @@
-fetch("https://isaiahnoelsalazar.github.io/dice-download/Dice.zip")
+fetch("https://isaiahnoelsalazar.github.io/multiple-dice-download/MultipleDice.zip")
 .then(response => {
     blob = response.blob();
     return blob;
